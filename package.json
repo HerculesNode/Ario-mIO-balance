@@ -1,5 +1,5 @@
 {
-  "name": "ario-mIO-balance-checker",
+  "name": "mIO-Balance-checker",
   "version": "1.0.0",
   "description": "This application interacts with ar.io SDK to query mIO balance",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "https://github.com/herculesnode/Ario-mIO-balance.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "hercules",
   "license": "MIT",
   "dependencies": {
     "@ar.io/sdk": "^1.0.7",
