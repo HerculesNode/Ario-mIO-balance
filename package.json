@@ -4,7 +4,7 @@
   "description": "This application interacts with ar.io SDK to query mIO balance",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build",
+    "build": "npm install @ar.io/sdk",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
